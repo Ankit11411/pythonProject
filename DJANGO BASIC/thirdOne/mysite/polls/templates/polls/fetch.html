@@ -1,0 +1,7 @@
+{% block content %}
+
+{% for instance in object_list %}
+    <p>{{ instance.id }}-{{instance.question_text}}-{{ question.question_text }}</p>>
+{% endfor %}
+
+{% endblock %}

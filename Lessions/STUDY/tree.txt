@@ -1,0 +1,3 @@
+pons, and home appliances. Some microprocessors are microcontrollers, so small and inexpensiv
+e that they are used to control very simple products like flashlights and greeting cards that play music when opened. A few especi
+ally powerful microprocessors are used in personal computers.
